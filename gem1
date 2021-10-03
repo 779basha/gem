@@ -1,5 +1,6 @@
-  
+#! /bin/bash
 
   free -m
+  ls -t
 
-  echo job sucess ans free memory is
+  echo "free memory is"
