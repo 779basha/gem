@@ -2,4 +2,4 @@
 
 free -m
 
-echo "demo job sucess"
+echo "demo job suces"
