@@ -1,6 +1,5 @@
 #! /bin/bash
 
   free -m
-  ls -t
 
   echo "free memory is"
